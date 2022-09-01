@@ -12,5 +12,5 @@ The purpose of this analysis is to help determine if the surf and ice cream shop
 Overall the ice cream should be sustanable year round as the temperatures are mostly high enough to sustain business.
 
 ### Other Queries
-1. I would like to see what the temperature is like in January and February as december is just the Beginnning of winter.
+1. I would like to see what the temperature is like in January and February as December is just the beginnning of winter.
 2. I would like to see if we could get wind data to see if there are times where it is too windy to be out getting ice cream.
